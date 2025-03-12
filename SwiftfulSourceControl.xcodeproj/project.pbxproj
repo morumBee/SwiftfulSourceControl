@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		43A738272D81073A005C89D4 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A738262D81073A005C89D4 /* HomeView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		43A7380C2D80FB29005C89D4 /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		43A738262D81073A005C89D4 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		43A738032D80FB29005C89D4 = {
 			isa = PBXGroup;
 			children = (
+				43A738262D81073A005C89D4 /* HomeView.swift */,
 				43A7380E2D80FB29005C89D4 /* SwiftfulSourceControl */,
 				43A7380D2D80FB29005C89D4 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43A738272D81073A005C89D4 /* HomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
