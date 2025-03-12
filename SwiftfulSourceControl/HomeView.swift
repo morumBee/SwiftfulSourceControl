@@ -14,6 +14,10 @@ struct HomeView: View {
             Text("Screen 2!")
             Text("Screen 2!")
             Text("Screen 3!")
+            Button {}
+                label: {
+                    Text("Stashing!")
+                }
         }
     }
 }
