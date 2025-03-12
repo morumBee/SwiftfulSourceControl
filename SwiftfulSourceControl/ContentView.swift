@@ -14,7 +14,11 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful Tinking!")
-            
+
+            Button {}
+                label: {
+                    Text("Click me!")
+                }
         }
         .padding()
     }
