@@ -12,6 +12,7 @@ struct HomeView: View {
         VStack(spacing: 20) {
             Text("Screen 2!")
             Text("Screen 2!")
+            Text("Screen 2!")
         }
     }
 }
