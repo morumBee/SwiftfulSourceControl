@@ -16,7 +16,7 @@ struct HomeView: View {
             Text("Screen 3!")
             Button {}
                 label: {
-                    Text("Stashing!")
+                    Text("Subscribe now!")
                 }
         }
     }
