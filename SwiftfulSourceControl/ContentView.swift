@@ -17,7 +17,7 @@ struct ContentView: View {
 
             Button {}
                 label: {
-                    Text("Subscribe Now!")
+                    Text("Swiftful Thinking!")
                 }
                 .buttonStyle(.borderedProminent)
         }
