@@ -22,6 +22,10 @@ struct ContentView: View {
                 .buttonStyle(.borderedProminent)
         }
         .padding()
+        Rectangle()
+            .frame(width: 100, height: 100)
+            .foregroundStyle(.teal)
+            .clipShape(.rect(cornerRadius: 20))
     }
 }
 
