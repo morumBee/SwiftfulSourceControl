@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "magnifyingglass")
                 .font(.title)
                 .foregroundStyle(.tint)
-            Text("Swiftful!")
+            Text("Swiftful!!!!!!")
 
             Button {}
                 label: {
